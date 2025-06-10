@@ -1,9 +1,10 @@
-# Your Project's Title...
-Your project's description...
+# Universal Editor Demo Site
+This repository contains a very small Edge Delivery Services project configured
+for the Universal Editor.
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--local-eds-ue--amahar.aem.page/
+- Live: https://main--local-eds-ue--amahar.aem.live/
 
 ## Documentation
 
